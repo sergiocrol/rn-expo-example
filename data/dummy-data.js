@@ -37,7 +37,7 @@ const PRODUCTS = [
     'p5',
     'u3',
     'PowerBook',
-    'https://get.pxhere.com/photo/laptop-computer-macbook-mac-screen-water-board-keyboard-technology-air-mouse-photo-airport-aircraft-tablet-aviation-office-black-monitor-keys-graphic-hardware-image-pc-exhibition-multimedia-calculator-vector-water-cooling-floppy-disk-phased-out-desktop-computer-netbook-personal-computer-computer-monitor-electronic-device-computer-hardware-display-device-448748.jpg',
+    'https://c.pxhere.com/photos/49/ac/computer_apple_laptop_mac_macbook-82520.jpg!d',
     'Awesome hardware, crappy keyboard and a hefty price. Buy now before a new one is released!',
     2299.99
   ),
